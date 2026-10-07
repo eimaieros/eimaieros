@@ -20,4 +20,4 @@ Most recently Tech Manager & Fullstack Developer at **Rock in Rio Lisboa**, wher
 
 [rodrigofigueiredo.dev](https://rodrigofigueiredo.dev) · [LinkedIn](https://www.linkedin.com/in/rodrigomvfigueiredo) · eimaieros@gmail.com
 
-Seixal, Lisbon · EU citizen, no visa needed to work anywhere in the EU.
+Lisbon, Portugal · EU citizen, no visa needed to work anywhere in the EU.
