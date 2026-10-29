@@ -10,7 +10,7 @@ Most recently Tech Manager & Fullstack Developer at **Rock in Rio Lisboa**, wher
 
 **[glaze](https://github.com/eimaieros/glaze)** — GPU effects over the DOM you already have. WebGPU, scroll-driven, and it never removes your content: the texture is uploaded before the element is hidden, and every failure path leaves the original page untouched. 91 tests, 17.2 KB minified, zero dependencies.
 
-**[cadence](https://github.com/eimaieros/cadence)** — a technical interview simulator. FastAPI, PostgreSQL 16 and Next.js, with answers streamed token by token over SSE and an interviewer that calls tools bound to the session on the server. 172 tests; the 127 backend ones run against a real PostgreSQL, because the schema uses JSONB and native enums and a SQLite suite would pass while production broke.
+**[cadence](https://github.com/eimaieros/cadence)** — a technical interview simulator. FastAPI, PostgreSQL 16 and Next.js, with answers streamed token by token over SSE and an interviewer that calls tools bound to the session on the server. 184 tests; the 127 backend ones run against a real PostgreSQL, because the schema uses JSONB and native enums and a SQLite suite would pass while production broke.
 
 **[cadence-mcp](https://github.com/eimaieros/cadence-mcp)** — an MCP server that lets an AI assistant run a cadence interview: start it, ask, answer and score, with a human confirmation before anything costly or irreversible. The interviewer's tool-call audit comes back to the assistant as records, never as instructions. 70 tests, types checked with `tsc --strict`.
 
