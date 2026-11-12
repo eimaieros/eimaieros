@@ -6,9 +6,9 @@ Most recently Tech Manager & Fullstack Developer at **Rock in Rio Lisboa**, wher
 
 ### What I publish here
 
-**[framebudget](https://github.com/eimaieros/framebudget)** — a runtime frame budget for animated websites. It measures real frame timing in production and turns the animation down before the user feels the stutter. Percentile-based rather than mean-based, because nobody perceives an average. 58 tests, 11.7 KB minified, zero dependencies.
+**[framebudget](https://github.com/eimaieros/framebudget)** — a runtime frame budget for animated websites. It measures real frame timing in production and turns the animation down before the user feels the stutter. Percentile-based rather than mean-based, because nobody perceives an average. 61 tests, 12.6 KB minified, zero dependencies.
 
-**[glaze](https://github.com/eimaieros/glaze)** — GPU effects over the DOM you already have. WebGPU, scroll-driven, and it never removes your content: the texture is uploaded before the element is hidden, and every failure path leaves the original page untouched. 91 tests, 17.2 KB minified, zero dependencies.
+**[glaze](https://github.com/eimaieros/glaze)** — GPU effects over the DOM you already have. WebGPU, scroll-driven, and it never removes your content: the texture is uploaded before the element is hidden, and every failure path leaves the original page untouched. 94 tests, 17.5 KB minified, zero dependencies.
 
 **[cadence](https://github.com/eimaieros/cadence)** — a technical interview simulator. FastAPI, PostgreSQL 16 with pgvector and Next.js, with answers streamed token by token over SSE, an interviewer that calls tools bound to the session on the server, and retrieval over the job description you paste in, measured with recall@k and MRR in CI. 236 tests; the 177 backend ones run against a real PostgreSQL, because the schema uses JSONB and native enums and a SQLite suite would pass while production broke.
 
